@@ -1,1 +1,1 @@
-https://Andrey562895.github.io/cv/cv
+https://Andrey562895.github.io/cv/cv.md
