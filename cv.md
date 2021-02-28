@@ -1,8 +1,11 @@
 # Curriculum Vitae
 ## Personal data
 **Surname, first name:** Andrey Avsyanski
+
 **Adress:** Nizhniy Novgorod, Russia
-**Email**(andreyavs.00@gmail.com)
+
+**Email:** [andreyavs.00@gmail.com](andreyavs.00@gmail.com)
+
 *Этот текст будет наклонным (курсив)*
 _Этот текст будет наклонным (курсив)_
 
